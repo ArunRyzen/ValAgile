@@ -1,0 +1,23 @@
+.form-control{
+    font-size: 16px;
+}
+
+.card.mx-auto{
+    max-width: 500px;
+    max-height:1000px;
+    font-size: 16px;
+}
+
+.panel-heading{
+    height: 40px;
+    background-color: #5d8aa8;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.panel-title{
+    margin-left: 10px;
+    font-weight: 500;
+}
